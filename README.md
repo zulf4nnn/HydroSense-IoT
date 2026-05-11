@@ -17,7 +17,7 @@ mengurangi kelalaian penyiraman manual dan pemborosan sumber daya air.
 - Monitoring kondisi tanah dan lingkungan via dashboard Blynk (mobile/web)
 - Otomatisasi pompa air berdasarkan threshold kelembapan tanah
 - Monitoring suhu dan kelembapan udara menggunakan sensor DHT11
-- Sistem daya mandiri berbasis baterai 18650 (portabel, tanpa kabel listrik)
+- Sistem daya mandiri berbasis baterai 18650 (portabel tanpa kabel listrik)
 - Arsitektur modular yang dapat dikembangkan untuk skala lebih besar
 
 ---
